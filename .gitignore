@@ -1,2 +1,6 @@
 # Simulation output
 events.jsonl
+
+# Python
+__pycache__/
+*.pyc
