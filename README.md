@@ -32,6 +32,18 @@ python3 timeline_viewer.py --events events.jsonl --port 8000
 
 Then open `http://127.0.0.1:8000` in your browser.
 
+## 4) Download Stanford's Smallville repository
+
+```bash
+./scripts/download_smallville.sh
+```
+
+Optional custom target path:
+
+```bash
+./scripts/download_smallville.sh external/stanford-smallville
+```
+
 ## CLI reference
 
 ### `simulation.py`
